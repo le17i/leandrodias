@@ -5,6 +5,6 @@
     <title>Projetos</title>
   </head>
   <body>
-    <a href="/url-schemes/index.php">URL Schemes</a>
+    <a href="/urlschemes/index.php">URL Schemes</a>
   </body>
 </html>
