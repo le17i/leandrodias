@@ -23,8 +23,8 @@
           <a class="btn btn-default" href="javascript:window.location='fb://publish/profile/me?text='+encodeURIComponent(location.href);"><i class="fa fa-facebook"></i></a>
           <a class="btn btn-default" href="javascript:window.location='twitter://post?message='+encodeURIComponent(location.href);"><i class="fa fa-twitter"></i></a>
           <a class="btn btn-default" href="javascript:window.location='whatsapp://send?text='+encodeURIComponent(location.href);"><i class="fa fa-whatsapp"></i></a>
-          <a class="btn btn-default" href="#"><i class="fa fa-map-marker"></i></a>
-          <a class="btn btn-default" href="tel:+551140637554"><i class="fa fa-phone"></i></a>
+          <a class="btn btn-default" href="https://www.google.com/maps/place/Av.+Dr.+Chucri+Zaidan,+1550+-+Santo+Amaro,+S%C3%A3o+Paulo+-+SP,+Brasil/@-23.6256019,-46.7041367,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce50dc5903a5d1:0x834b8225b4317ec8"><i class="fa fa-map-marker"></i></a>
+          <a href="#"></a>
         </div>
       </div>
     </div>
